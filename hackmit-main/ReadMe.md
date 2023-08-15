@@ -1,7 +1,7 @@
 
 
 ## To run Front-End:
-1. `git clone https://github.com//hackmit`
+1. `git clone https://github.com/Fsdaba/hackmit-main`
 2. `cd frontend`
 3. `npm i --force`
 
